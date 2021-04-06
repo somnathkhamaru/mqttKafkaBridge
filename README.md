@@ -1,2 +1,2 @@
 # mqttKafkaBridge
-A intermediatetary to subscribe to mqtt messages and send the subcribed messages to Kafka topics
+A intermediatetary to subscribe to mqtt topic and send the messages from subcribed mqtt topic to Kafka topic
