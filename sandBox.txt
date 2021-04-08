@@ -2,3 +2,5 @@
 kafka-server-start.bat C:\kafka\config\server.properties
 kafka-server-start.bat C:\kafka\config\server.properties
 kafka-console-consumer.bat --bootstrap-server localhost:9092 --topic demo --from-beginning
+kafka-console-producer.bat --bootstrap-server localhost:9092 --topic demo --from-beginning
+{"driver_id":"d001","route_id":"r002","speed":60,"truck_id":"t001","event_timestamp":"2021-12-09"}
